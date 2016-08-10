@@ -23,7 +23,6 @@ import org.bouncycastle.openpgp.PGPPublicKeyEncryptedData;
 import org.bouncycastle.openpgp.PGPSignatureList;
 import org.bouncycastle.openpgp.PGPUtil;
 
-import com.sun.xml.internal.ws.message.ByteArrayAttachment;
 
 public class BCPGPDecryptor {
 
